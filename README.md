@@ -1,2 +1,2 @@
-# javascript-practice-daily
-My daily practice of Javascript
+
+My daily practice of Javascript and Python
